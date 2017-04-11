@@ -1,0 +1,32 @@
+<resources>
+    <string name="hint_name_edit_text"> Enter your name here please :)</string>
+    <string name="hint_fourth_question_edit_text"> Enter the name here </string>
+    <string name="app_name">Rome Quizz app</string>
+    <string name="all_questions_text"> Answer the following questions: </string>
+    <string name="first_question_text"> 1, What are the names of two brothers that allegedly founded Rome ? </string>
+    <string name="second_question_text"> 2, What is the name of man that conquered Gaul ? </string>
+    <string name="third_question_text"> 3, Which generals have fought in the battle of Zama ? </string>
+    <string name="Fourth_question_text"> 4, Write name of a Roman emperor that builded the Hadrian Wall</string>
+    <string name="Fifth_question_text"> 5, Write the name of a legendary roman sword used by most Roman Soldiers </string>
+    <string name="Sixth_question_text"> 6, In which year Roman kingdom has been established ?</string>
+    <string name="Seventh_question_text"> 7, What is the name of the historical monument builded by Rome you see on the picture ? :)</string>
+    <string name="first_radiobutton_text"> Romulus and Remus </string>
+    <string name="second_radiobutton_text"> Caesar and Cicero </string>
+    <string name="third_radiobutton_text">Gaius Iulius Caesar </string>
+    <string name="fourth_radiobutton_text"> Pompeius Magnus </string>
+    <string name="first_check_text"> Hannibal Barca</string>
+    <string name="second_check_text"> Veruho Disiballo</string>
+    <string name="third_check_text"> Scipio Africannus</string>
+    <string name="fourth_check_text"> Titus Germannicus</string>
+    <string name="last_submit_text"> check answers</string>
+    <string name="fifth_radiobutton_text">732 B.C</string>
+    <string name="sixth_radiobutton_text">753 B.C</string>
+    <string name="seventh_radiobutton_text">694 B.C</string>
+    <string name="eight_radiobutton_text">781 B.C</string>
+    <string name="seventh_question_radiobutton_text"> Hagia Sofia </string>
+    <string name="seventh_question_second_radiobutton_text"> Colosseum </string>
+    <string name="summary"> Thanks for playing. Your score is: </string>
+    <string name="worstScore"> points. You should read a little bit more about Roman empire. :) </string>
+    <string name="betterScore"> points. You know quite a lot about Rome. :) </string>
+    <string name="bestScore"> points. You are an expert on Roman problematic. :) </string>
+</resources>

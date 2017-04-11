@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FirstTextView_top_margin">0dp</dimen>
+    <dimen name="ImageView_top_margin">30dp</dimen>
+    <dimen name="all_questions_padding">35dp</dimen>
+    <dimen name="radiobuttons_margin">10dp</dimen>
+    <dimen name="radiogroup_margin">40dp</dimen>
+
+</resources>
